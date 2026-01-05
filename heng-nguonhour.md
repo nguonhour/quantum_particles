@@ -10,6 +10,6 @@
 
 ---
 
-## Git hub link: 
+## Git hub link:
 
-<https://github.com/PONLORK19/Operating-System-/tree/semaphoreP1-P2>
+https://github.com/nguonhour/quantum_particles
